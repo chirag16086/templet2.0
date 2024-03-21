@@ -1,0 +1,107 @@
+body{ 
+
+    border: 5px solid black;
+    width: 700px;
+    height: 850px;
+}
+.row{
+    color: red;
+   
+width: 53%;
+  color: initial;
+}
+.row1{
+    display: flex;
+background-color:#fa6c13;
+
+width:200px ;
+height: 250px;
+padding: 0px;
+color: bisque;
+position: relative;
+}
+.hey{
+color: white;
+padding:10px 10px 10px 10px;
+border: 5px solid white;
+
+width: 70px;
+margin-top: 20px;
+}
+.box{
+margin-left:85px;
+padding-right: 80px;
+padding-top: 30px;
+background-color: #ffc107;
+opacity: 1;
+height: 100px;
+width: 505px;
+color: rgb(20, 17, 17);
+}
+.blue{
+width: 690px;
+height:180px;
+padding: 10px 50px;
+background-color:rgb(66, 165, 247);
+letter-spacing: 1px;
+
+}
+.black{
+position: relative;
+background-color: black;
+color: beige;
+width: 190px;
+padding-left: 15px;
+}
+.mainm{
+    display: flex;
+height: 30px;
+width: 90px;
+margin-top: 10px;
+background-color: black;
+color: beige;
+padding-left: 10px;
+}
+.lorem{
+    padding-left: 90px;
+    text-align: justify;
+    color: aliceblue;
+}
+.img2{
+position: relative;
+padding: 0px 0px 0px 0px;
+margin: 10px 0px 0px 50px;
+}
+.img6{
+    position: relative;
+    margin-right: 100px;
+}
+.hed{
+    color: red;
+    margin: 20px 40px 0px;
+}
+.fol{
+    display: flex;
+    color: blue;
+    margin: 40px 40px 0px;
+}
+.add{
+    color: white;
+    margin-top:-0px;
+
+    margin-left: 490px;
+   letter-spacing: 1px;
+    background-color:#ffc107;
+    width: 200px;
+    height: 120px;
+    text-align: justify;
+}
+.logo{
+    margin-bottom:50px;
+    color: beige;
+}
+
+.fol2{
+    margin-top: 40px;
+    margin-left: -60px;
+}
